@@ -41,3 +41,7 @@ The Evaluator Optimizer workflow focuses on assessing and improving the performa
 ## References
 
 - [LangGraph Workflows Tutorial](https://langchain-ai.github.io/langgraph/tutorials/workflows/#set-up): A comprehensive guide to setting up and using LangGraph workflows.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
