@@ -38,6 +38,12 @@ The Worker workflow is designed for distributed task execution. It allows tasks 
 
 The Evaluator Optimizer workflow focuses on assessing and improving the performance of language models. Using another model as an evaluator, it provides feedback loop to refine the output of the primary model. This iterative process enhances the quality and relevance of the generated content.
 
+## Agent
+
+![Agent](assets/agent.png)
+
+They are typically just LLMs using tools based on environment feedback in a loop
+
 ## References
 
 - [LangGraph Workflows Tutorial](https://langchain-ai.github.io/langgraph/tutorials/workflows/#set-up): A comprehensive guide to setting up and using LangGraph workflows.
