@@ -1,6 +1,6 @@
 # LangGraph Workflows
 
-LangGraph provides a set of workflows to enhance the capabilities of language models. Below is an overview of the key workflows, along with visual representations and descriptions.
+Hands on tutorial for LangGraph Workflows.
 
 ## Augmented LLM
 
